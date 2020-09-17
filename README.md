@@ -21,11 +21,11 @@ Enviar os e-mails até 1 semana após receber a candidatura ou realizar a entrev
 
 Bom dia/Boa tarde [nome],
 
-Obrigado(a) pela sua candidatura [à vaga de Função] e pela sua disponibilidade e interesse na nossa empresa. Infelizmente, não [passou à fase de entrevistas / foi o candidato escolhido / não estamos, de momento, a recrutar ]. 
+Obrigado pela candidatura e pela disponibilidade e interesse na nossa empresa. Infelizmente, não [passou à fase de entrevistas / foi o candidato escolhido / não estamos, de momento, a recrutar ]. 
 
 [ Estamos à procura de alguém com mais experiência / a competência X / outro requisito ].
 
-Quando existir uma oportunidade em aberto, colocaremos no nosso site, LinkedIn e página de Facebook.
+Quando existir uma vaga colocaremos no nosso site, LinkedIn e página de Facebook.
 
 Com os melhores cumprimentos,
 
