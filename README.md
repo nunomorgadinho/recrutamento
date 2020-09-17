@@ -27,7 +27,7 @@ _ _substituir pelo link do calendário para marcação online_ _
 
 Com os melhores cumprimentos,
 
-## Não passou ao próximo passo
+## Não passou ao próximo passo (até 1 semana após a primeira ou segunda entrevista)
 
 Bom dia/Boa tarde [nome],
 
