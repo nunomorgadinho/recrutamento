@@ -1,3 +1,21 @@
+# Linhas gerais e orientadoras
+
+### 1. Personalizar o e-mail
+Escrever o nome do candidato e a função para a qual a pessoa se candidatou.
+
+### 2. Escrever um e-mail curto
+Ir directo ao assunto: poupar a ansiedade aos candidatos escrevendo de forma directa.
+
+### 3. Agradecer a disponibilidade 
+Os candidatos esforçaram-se para apresentar uma boa candidatura. Agradecer a disponibilidade e partilha de ideias.
+
+### 4. Explicar como podem ficar a par de futuras vagas
+Indicar onde os candidatos podem manter-se actualizados: LinkedIn, Facebook, Página de Recrutamento, etc.
+
+### 5. Responder atempadamente
+Enviar os e-mails até 1 semana após receber a candidatura ou realizar a entrevista.
+
+# Templates de e-mail / Boilerplates
 
 ## Não estamos a recrutar / não estamos interessados por alguma razão (enviar até 1 semana após ter recebido a candidatura)
 
@@ -7,7 +25,7 @@ Obrigado(a) pela sua candidatura [à vaga de Função] e pela sua disponibilidad
 
 [ Estamos à procura de alguém com mais experiência / a competência X / outro requisito ].
 
-Quando temos uma oportunidade em aberto colocamos no nosso site e também no LinkedIn e Facebook.
+Quando existir uma oportunidade em aberto, colocaremos no nosso site, LinkedIn e página de Facebook.
 
 Com os melhores cumprimentos,
 
@@ -21,7 +39,7 @@ Primeira entrevista > Segunda entrevista (Técnica) > Trial
 
 Bom dia/Boa tarde [nome],
 
-Podemos marcar uma entrevista? Deixo o nosso calendário por forma a agendarmos:
+Podemos marcar uma entrevista (Skype ou Zoom)? Deixo o nosso calendário por forma a agendarmos:
 
 _ _substituir pelo link do calendário para marcação online_ _
 
@@ -42,7 +60,7 @@ Com os melhores cumprimentos,
 
 Bom dia/Boa tarde [nome], 
 
-No seguimento do nosso processo de recrutamento gostariamos de agendar uma entrevista técnica contigo para os próximos dias. Deixo o nosso calendário por forma a agendarmos:
+No seguimento do nosso processo de recrutamento gostariamos de agendar uma entrevista técnica contigo (Skype ou Zoom) para os próximos dias. Deixo o nosso calendário por forma a agendarmos:
 
 _ _substituir pelo link do calendário para marcação online_ _
 
@@ -54,7 +72,7 @@ Com os melhores cumprimentos,
 
 Bom dia/Boa tarde [nome],
 
-Em relação ao nosso processo de recrutamento continuas interessado em avançar? Nós estamos.
+Em relação à vaga de [Função] na empresa continua interessado em avançar? Nós estamos.
 
 O próximo passo é realizarmos um trial (WL-_substituir-nome_ e também _substituir-nome_-WL) para testarmos trabalhar em conjunto. 
 
