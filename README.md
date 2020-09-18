@@ -45,6 +45,8 @@ _ _substituir pelo link do calendário para marcação online_ _
 
 Com os melhores cumprimentos,
 
+[Nome do recrutador]
+
 ## Não passou ao próximo passo (até 1 semana após a primeira ou segunda entrevista)
 
 Bom dia/Boa tarde [nome],
@@ -55,6 +57,7 @@ Obrigado(a) pela entrevista e disponibilidade até aqui. Infelizmente, não [pas
 
 Com os melhores cumprimentos,
 
+[Nome do recrutador]
 
 ## Marcação da segunda entrevista (com base nesta entrevista decidir avançar ou não com o trial)
 
