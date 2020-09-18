@@ -21,7 +21,7 @@ Enviar os e-mails até 1 semana após receber a candidatura ou realizar a entrev
 
 Bom dia/Boa tarde [nome],
 
-Obrigado pela candidatura e pela disponibilidade e interesse na nossa empresa. Infelizmente, não [passou à fase de entrevistas / foi o candidato escolhido / não estamos, de momento, a recrutar ]. 
+Obrigado pela candidatura, disponibilidade e interesse na nossa empresa. Infelizmente, não [passou à fase de entrevistas / foi o candidato escolhido / não estamos, de momento, a recrutar ]. 
 
 [ Estamos à procura de alguém com mais experiência / a competência X / outro requisito ].
 
@@ -60,7 +60,7 @@ Com os melhores cumprimentos,
 
 Bom dia/Boa tarde [nome], 
 
-No seguimento do nosso processo de recrutamento gostariamos de agendar uma entrevista técnica contigo (Skype ou Zoom) para os próximos dias. Deixo o nosso calendário por forma a agendarmos:
+No seguimento do recrutamento à vaga de [Função] gostariamos de agendar uma entrevista técnica (Skype ou Zoom) para os próximos dias. Deixo o nosso calendário por forma a agendarmos:
 
 _ _substituir pelo link do calendário para marcação online_ _
 
@@ -72,7 +72,7 @@ Com os melhores cumprimentos,
 
 Bom dia/Boa tarde [nome],
 
-Em relação à vaga de [Função] na empresa continua interessado em avançar? Nós estamos.
+Em relação à vaga de [Função] na empresa continua interessado?
 
 O próximo passo é realizarmos um trial (WL-_substituir-nome_ e também _substituir-nome_-WL) para testarmos trabalhar em conjunto. 
 
